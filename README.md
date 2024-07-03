@@ -19,7 +19,7 @@ This repository contains two scripts for creating interactive AI chatbots using 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Text_and_Audio_AI_Chatbot.git
+   git clone https://github.com/thrive_spectrexq/Text_and_Audio_AI_Chatbot.git
    cd Text_and_Audio_AI_Chatbot
 
 2. **Install Dependencies:**
