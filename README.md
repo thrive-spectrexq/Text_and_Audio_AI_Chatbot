@@ -14,19 +14,12 @@ This repository contains two simple python scripts for creating interactive AI c
     ```bash
     pip install -r requirements.txt
 
-**Set Up Environment Variables:**
+3. **Set Up Environment Variables:**
   - Create a .env file in the root of the project and add your OpenAI API key:
     ```bash
     OPENAI_API_KEY = "your_openai_api_key"
 
-**How to Run:**
-
+4. **How to run:**
     ```bash
     python app.py
-    ```
-
-**How to Run:**
-
-    ```bash
     python appaudio.py
-    ```
