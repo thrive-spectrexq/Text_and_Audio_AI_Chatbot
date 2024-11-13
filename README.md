@@ -1,4 +1,4 @@
-# Text and Audio AI Chatbot
+# AI Chatbot
 
 This repository contains two simple python scripts for creating interactive AI chatbots using OpenAI's GPT-3.5-turbo model. One chatbot interacts through text, and the other through audio. The text-based chatbot uses Gradio for the user interface, while the audio-based chatbot uses OpenAI's Whisper model for transcription and `pyttsx3` for text-to-speech.
 
@@ -6,8 +6,8 @@ This repository contains two simple python scripts for creating interactive AI c
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/thrive_spectrexq/Text_and_Audio_AI_Chatbot.git
-   cd Text_and_Audio_AI_Chatbot
+   git clone https://github.com/thrive_spectrexq/ai_chatbot.git
+   cd ai_chatbot
 
 2. **Install Dependencies:**
   - Make sure you have Python 3.x installed. Then, install the required packages:
