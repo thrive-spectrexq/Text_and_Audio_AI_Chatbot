@@ -5,21 +5,26 @@ This repository contains two simple python scripts for creating interactive AI c
 ## Setup
 
 1. **Clone the Repository:**
+   
    ```bash
    git clone https://github.com/thrive_spectrexq/ai_chatbot.git
    cd ai_chatbot
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
   - Make sure you have Python 3.x installed. Then, install the required packages:
+    
     ```bash
     pip install -r requirements.txt
 
 3. **Set Up Environment Variables:**
   - Create a .env file in the root of the project and add your OpenAI API key:
+    
     ```bash
     OPENAI_API_KEY = "your_openai_api_key"
 
 4. **How to run:**
+   
     ```bash
     python app.py
     python appaudio.py
+
